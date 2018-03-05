@@ -1,0 +1,29 @@
+Command line:
+   Color2BW_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  50998
+
+Sat Mar 03 22:11:28 2018
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 1191.02 Meg
+
+ Total Signals          : 27
+ Total Nets             : 189
+ Total Signal Drivers   : 18
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 24
+ Total Traceable Variables  : 28
+ Total Scalar Nets and Variables : 524646
+Total Line Count : 43
+
+ Total Simulation Time: 0.4375 sec
+
+ Current Memory Usage: 1349.11 Meg
+
+Sat Mar 03 22:12:21 2018
+

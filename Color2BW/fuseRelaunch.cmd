@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/uttej/Desktop/My Docs/DSD assignment/assignment2/phase1/Question1/Color2BW_tb_isim_beh.exe" -prj "C:/Users/uttej/Desktop/My Docs/DSD assignment/assignment2/phase1/Question1/Color2BW_tb_beh.prj" "work.Color2BW_tb" "work.glbl" 
